@@ -1,2 +1,2 @@
 /// @description 
-global.grana += 1;
+global.produto += 1;

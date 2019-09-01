@@ -1,38 +1,38 @@
 {
-    "id": "79a2664e-d66c-4d58-8579-890b1a154ae1",
+    "id": "1dcf9440-8b20-4e7d-88f6-d667c5055627",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "game",
+    "name": "obj_pessoa",
     "eventList": [
         {
-            "id": "1c7c29af-24ce-4ecf-9e93-020aced733a6",
+            "id": "8bb6b5d7-debc-4b58-8b94-4aa77c07fccd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "79a2664e-d66c-4d58-8579-890b1a154ae1"
+            "m_owner": "1dcf9440-8b20-4e7d-88f6-d667c5055627"
         },
         {
-            "id": "b93bb2a1-58d2-4451-a3be-3ad3cd82cfa3",
+            "id": "d761bd0a-a4ae-4508-a38c-5874b9ee4450",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "79a2664e-d66c-4d58-8579-890b1a154ae1"
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "1dcf9440-8b20-4e7d-88f6-d667c5055627"
         },
         {
-            "id": "6faa6aba-e54e-44e7-a2e0-4e7d76ffc225",
+            "id": "0fd99df9-1500-4492-b28c-a42c7aecd268",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
-            "m_owner": "79a2664e-d66c-4d58-8579-890b1a154ae1"
+            "m_owner": "1dcf9440-8b20-4e7d-88f6-d667c5055627"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "a28b70c1-ace3-4ee3-8ab8-5891e4c2401d",
     "visible": true
 }
