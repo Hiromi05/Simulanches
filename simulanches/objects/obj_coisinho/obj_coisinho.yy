@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_coisinho",
     "eventList": [
-        
+        {
+            "id": "208e3267-8c45-4293-87bb-cc4e1fc3763b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cc22ef0b-4c87-4b09-acad-74faa9c5b8e5"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
